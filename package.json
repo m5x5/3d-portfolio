@@ -9,11 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@stitches/react": "^1.2.8",
+    "drei": "^2.2.21",
     "next": "12.1.6",
     "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react-dom": "18.1.0",
+    "react-spring": "^9.4.4",
+    "react-three-fiber": "^6.0.13",
+    "three": "^0.140.0",
+    "troika-three-text": "^0.46.4"
   },
   "devDependencies": {
+    "@types/node": "^17.0.31",
+    "@types/react": "^18.0.8",
     "eslint": "8.14.0",
     "eslint-config-next": "12.1.6"
   }
